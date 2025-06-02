@@ -23,4 +23,5 @@ Following the instructions in these tutorials, I then began to plan out how I wo
 Using the previous drawing of the rows and columns for the key matrix, I began making a schematic in KiCad of the keyboard, using symbols from [Joe Scotto's library](https://github.com/joe-scotto/scottokeebs).
 ![](https://github.com/KyleDavis2200/Keyboard/blob/main/Images/image_2025-06-01_213113712.png)
 I then moved onto selecting exactly which switches and keycaps I would use. I opted for Princess Tactile switches and 8008 keycaps. I also selected the cable and stabilizers I would be using for this build at this time.
-![](https://github.com/user-attachments/assets/0c3be46c-0378-48fe-8f5b-1f5f31ed022c)
+![image](https://github.com/user-attachments/assets/e1c56e34-e744-4a74-a08f-48c2ef5b5f28)
+
