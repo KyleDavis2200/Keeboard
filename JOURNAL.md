@@ -24,4 +24,6 @@ Using the previous drawing of the rows and columns for the key matrix, I began m
 ![](https://github.com/KyleDavis2200/Keyboard/blob/main/Images/image_2025-06-01_213113712.png)
 I then moved onto selecting exactly which switches and keycaps I would use. I opted for Princess Tactile switches and 8008 keycaps. I also selected the cable and stabilizers I would be using for this build at this time.
 ![image](https://github.com/user-attachments/assets/e1c56e34-e744-4a74-a08f-48c2ef5b5f28)
-
+Next, I created a rough layout of the PCB, including the Pico, the diodes, and all of the key switches.
+![image](https://github.com/user-attachments/assets/ec49ce8c-d264-4926-8151-4691e298af1a)
+![image](https://github.com/user-attachments/assets/484fb0c8-4ec5-4803-a765-1c700029485c)
