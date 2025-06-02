@@ -20,6 +20,8 @@ Following the instructions in these tutorials, I then began to plan out how I wo
 
 5/26/2025
 
+8 Hours
+
 Using the previous drawing of the rows and columns for the key matrix, I began making a schematic in KiCad of the keyboard, using symbols from [Joe Scotto's library](https://github.com/joe-scotto/scottokeebs).
 
 ![](https://github.com/KyleDavis2200/Keyboard/blob/main/Images/image_2025-06-01_213113712.png)
@@ -31,3 +33,15 @@ I then moved onto selecting exactly which switches and keycaps I would use. I op
 Next, I created a rough layout of the PCB, including the Pico, the diodes, and all of the key switches.
 ![image](https://github.com/user-attachments/assets/ec49ce8c-d264-4926-8151-4691e298af1a)
 ![image](https://github.com/user-attachments/assets/484fb0c8-4ec5-4803-a765-1c700029485c)
+
+5/30/25
+
+2 Hours
+
+Today, I polished up the board layout by adjusting the location of the Pico to better fit between the switches and made some of the remaining traces that I had not made previously. At this point, the remaining steps in the PCB design in Kicad are to add the connectors for expanding with future modules, adding a ground plane, and creating mounting for the stabilizers. After that, the rest of the design, designing the case and plate, will be done in Solidworks.
+
+6/1/25
+
+1 Hour
+
+Today, I focused on getting the journal up to date and adding images to the journal. I also went back and switched from 3 pin connectors (which I had only been using 2 pins on, as I could not find 2 pin connectors) for the expandable modules to 4 pin connectors, which allowed me to use I²C to communicate with the external modules. This would allow me to use wired communication to the external modules, instead of just using the connection as a charging port for wireless modules. I do still aim to make a wireless macropad/keypad, but this creates the option of making a screen module or a slider/knob module. As of writing this, I am realizing that the signals for the I²C communication should be sent to seperate GPIO pins from the connector on each side of the keyboard, instead of sharing GPIO pins, which would make it possible to use two modules at a time. After some research, I found that I can connect the devices in parallel as I had previously designed them, which is ideal as I would have been one GPIO pin too short to make seperate a seperate I²C channel for each side of the board.
