@@ -13,4 +13,5 @@ I began this project by first researching how keyboard PCBs were laid out, as I 
 
 ![](https://github.com/KyleDavis2200/Keyboard/blob/main/Images/Main-Board.png)
 
-Using these tutorials, I then began to plan out how I would layout the columns and rows for this keyboard. 
+Following the instructions in these tutorials, I then began to plan out how I would layout the columns and rows for this keyboard. 
+![](https://github.com/KyleDavis2200/Keyboard/blob/main/Images/Main%20Board-ANNOTATED.png)
