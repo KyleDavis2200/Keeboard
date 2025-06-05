@@ -45,3 +45,10 @@ Today, I polished up the board layout by adjusting the location of the Pico to b
 1 Hour
 
 Today, I focused on getting the journal up to date and adding images to the journal. I also went back and switched from 3 pin connectors (which I had only been using 2 pins on, as I could not find 2 pin connectors) for the expandable modules to 4 pin connectors, which allowed me to use I²C to communicate with the external modules. This would allow me to use wired communication to the external modules, instead of just using the connection as a charging port for wireless modules. I do still aim to make a wireless macropad/keypad, but this creates the option of making a screen module or a slider/knob module. As of writing this, I am realizing that the signals for the I²C communication should be sent to seperate GPIO pins from the connector on each side of the keyboard, instead of sharing GPIO pins, which would make it possible to use two modules at a time. After some research, I found that I can connect the devices in parallel as I had previously designed them, which is ideal as I would have been one GPIO pin too short to make seperate a seperate I²C channel for each side of the board.
+
+6/4/25
+
+Today, I worked on getting the connectors for the external modules added to the PCB. I modeled each connector in Solidworks and then creasted a footprint for the connector with the 3D model in Kicad.
+![image](https://github.com/user-attachments/assets/3c1c91c1-450c-4678-8fec-c3d1306704b4)
+
+![image](https://github.com/user-attachments/assets/2949abdd-50ed-413b-b478-fc2a3739ff97)
