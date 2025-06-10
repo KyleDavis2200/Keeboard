@@ -48,7 +48,30 @@ Today, I focused on getting the journal up to date and adding images to the jour
 
 6/4/25
 
+4 Hours
+
 Today, I worked on getting the connectors for the external modules added to the PCB. I modeled each connector in Solidworks and then creasted a footprint for the connector with the 3D model in Kicad.
 ![image](https://github.com/user-attachments/assets/3c1c91c1-450c-4678-8fec-c3d1306704b4)
 
 ![image](https://github.com/user-attachments/assets/2949abdd-50ed-413b-b478-fc2a3739ff97)
+
+After this, I created the ground planes to finish the board layout and exported the board as a STEP file.
+
+6/5/25
+
+1 Hour
+
+I imported the board into Solidworks and modeled the baseplate.
+
+6/9/25
+
+4 Hours
+
+Today, I imported all of the keycaps into the model and modeled the plate. To create the cutouts for each key in the plate I used https://www.keyboard-layout-editor.com to make the layout and http://builder.swillkb.com to create a DXF profile where all of the cutouts for the keys would be. Then, I imported this to Solidworks as a DxF which I then used to create the cutouts in the plate.
+![image](https://github.com/user-attachments/assets/847e725d-674e-4b05-a5f9-9edd6c486875)
+
+6/10/25
+
+x Hours (started writing before doing the work)
+
+All I have left to do today is design the case. I will need to split hte case in half to fit it on my printer.
