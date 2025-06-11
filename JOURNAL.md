@@ -80,3 +80,12 @@ All I had left to do today is design the case. I needed to design the case to sp
 Finished Product:
 
 ![image](https://github.com/user-attachments/assets/000ffb94-b1bc-40e2-98c2-b1048e56a59c)
+
+![image](https://github.com/user-attachments/assets/1d9acb10-5df5-4355-878d-e9188b7a2685)
+
+![image](https://github.com/user-attachments/assets/0a6baa3a-fc72-44a8-9d63-af3da7d6a95a)
+
+![image](https://github.com/user-attachments/assets/61493d56-6516-4113-9cf7-1fe43a3d00d3)
+
+
+
