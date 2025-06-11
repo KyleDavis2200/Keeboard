@@ -85,6 +85,7 @@ Finished Product:
 
 ![image](https://github.com/user-attachments/assets/0a6baa3a-fc72-44a8-9d63-af3da7d6a95a)
 
+Well... It turns out I wasn't finished. The keyboard came out way over budget, so I will need to redesign it to cut costs. Instead of using an aluminum plate and an aluminum base plate, I am going to make them both out of PLA (base plate integrated into case). This should cut costs significantly, but that will ahve to wait for another day.
 ![image](https://github.com/user-attachments/assets/61493d56-6516-4113-9cf7-1fe43a3d00d3)
 
 
