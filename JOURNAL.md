@@ -73,7 +73,7 @@ Today, I imported all of the keycaps into the model and modeled the plate. To cr
 6/10/25
 
 
-All I had left to do today is design the case. I needed to design the case to split in half to fit on my printer. The case will be printed out of PLA and the feet on the bottom of the board will be printed out of TPU.
+All I had left to do today is design the case. I needed to design the case to split in half to fit on my printer. The case will be printed out of PLA and the feet on the bottom of the board will be printed out of TPU. The two halves of the case are aligned with keying features and are held together with the four M3 screws that hold the entire keyboard together. Each of the upper feet are held on with two M3 screws and also have a keying feature for alignment, while the lower feet are held on with four snap fit joints.
 
 ![image](https://github.com/user-attachments/assets/64914736-fe9f-4736-9849-146ac79f6e92)
 
