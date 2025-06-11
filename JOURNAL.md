@@ -72,6 +72,11 @@ Today, I imported all of the keycaps into the model and modeled the plate. To cr
 
 6/10/25
 
-x Hours (started writing before doing the work)
 
-All I have left to do today is design the case. I will need to split hte case in half to fit it on my printer.
+All I had left to do today is design the case. I needed to design the case to split in half to fit on my printer. The case will be printed out of PLA and the feet on the bottom of the board will be printed out of TPU.
+
+![image](https://github.com/user-attachments/assets/64914736-fe9f-4736-9849-146ac79f6e92)
+
+Finished Product:
+
+![image](https://github.com/user-attachments/assets/000ffb94-b1bc-40e2-98c2-b1048e56a59c)
