@@ -72,6 +72,7 @@ Today, I imported all of the keycaps into the model and modeled the plate. To cr
 
 6/10/25
 
+6 Hours
 
 All I had left to do today is design the case. I needed to design the case to split in half to fit on my printer. The case will be printed out of PLA and the feet on the bottom of the board will be printed out of TPU. The two halves of the case are aligned with keying features and are held together with the four M3 screws that hold the entire keyboard together. Each of the upper feet are held on with two M3 screws and also have a keying feature for alignment, while the lower feet are held on with four snap fit joints.
 
@@ -85,7 +86,7 @@ Finished Product:
 
 ![image](https://github.com/user-attachments/assets/0a6baa3a-fc72-44a8-9d63-af3da7d6a95a)
 
-Well... It turns out I wasn't finished. The keyboard came out way over budget, so I will need to redesign it to cut costs. Instead of using an aluminum plate and an aluminum base plate, I am going to make them both out of PLA (base plate integrated into case). This should cut costs significantly, but that will ahve to wait for another day.
+Well... It turns out I wasn't finished. The keyboard came out way over budget, so I will need to redesign it to cut costs. Instead of using an aluminum plate and an aluminum base plate, I am going to make them both out of PLA (base plate integrated into case). This should cut costs significantly, but that will have to wait for another day.
 ![image](https://github.com/user-attachments/assets/61493d56-6516-4113-9cf7-1fe43a3d00d3)
 
 6/11/25
