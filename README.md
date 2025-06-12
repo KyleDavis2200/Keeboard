@@ -17,9 +17,36 @@ In this project, I made a custom mechanical keyboard using a Raspberry Pi Pico c
 
 My main inspiration when designing this keyboard came from the Mountain Everest Max. The Everest Max features a removable number pad which can be attached to either side of the keyboard. This allows you to put it on the left side, which is more convenient for daily usage as it allows you to type in numbers with your left hand and move the mouse with your right hand without stretching your hand too far over. This setup is also ideal for gaming as it helps to maximize the mamount of mouse room on the right side of the board. To replicate this functionality in my own board, I put magnetic pogo pins on the sides of the board that allow the macropad/numberpad to connect to the keyboard. The four pins include a 5V pin, a ground pin, and two pins for I²C communication. This should leave me with plenty of options for expandability in the future.
 
-The keyboard itself runs off of a Pi Pico clone, which was chosen for its high quanitity of GPIO pins and USB C port (compared to the Micro USB B port of the actual Pico). It uses MMD Princess V2 Tactile Switches, and its keys are arranged in a 6x17 matrix. The keyboard has a white color scheme with Blue 8008 keycaps. The case and plate are designed to be printed in two halves and then assembled, where they will then be held to gether by keying features, heat set inserts, and the screws running through the case and PCB.
+The keyboard itself runs off of a Pi Pico clone, which was chosen for its high quanitity of GPIO pins and USB C port (compared to the Micro USB B port of the actual Pico). It uses MMD Princess V2 Tactile Switches, and its keys are arranged in a 6x17 matrix. The keyboard has a white color scheme with Blue 8008 keycaps. The case and plate are designed to be printed in two halves and then assembled, where they will then be held to gether by keying features, heat set inserts, and the screws running through the case and PCB. The case also features carefully placed cylinders to act like standoffs to support the PCB. The aim with this was to give the board a more solid feel than it otherwise would have, as I was worried about the PCB flexing if a key is pressed too hard.
 
-#Images
+# Images
+
+## PCB:
+Schematic:
+![image](https://github.com/user-attachments/assets/87a5833b-df61-42e8-8393-87130a53c252)
+
+Front:
+![image](https://github.com/user-attachments/assets/87d26551-021b-4a17-a9c9-2c0e55f7c9ba)
+Back:
+![image](https://github.com/user-attachments/assets/6082f38e-1d38-45b1-a5c3-80429cf883bc)
+3D View:
+![image](https://github.com/user-attachments/assets/1532ab9e-a589-4e56-ad91-9fef29abcda1)
+
+## CAD:
+Isometric:
+![image](https://github.com/user-attachments/assets/2d376f18-136c-4a6b-be7e-b61e0ae7a144)
+
+Front View:
+![image](https://github.com/user-attachments/assets/5d17b7b1-2008-4b0b-a14d-b673a3c53a87)
+
+Side View:
+![image](https://github.com/user-attachments/assets/3f54e12b-c284-4a91-9348-8b9789435811)
+
+Top View:
+![image](https://github.com/user-attachments/assets/d5cb60e5-5211-4f2c-9b56-5e2546696687)
+
+Back View:
+![image](https://github.com/user-attachments/assets/12e8ded4-1b9a-4817-b722-becd98614d5d)
 
 # BOM
 
