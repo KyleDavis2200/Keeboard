@@ -5,7 +5,7 @@ description: A custom keyboard designed with future expandability in mind
 created_at: 2025-05-25
 ---
 
-title work in progress
+Total Time: 32 Hours
 
 5/25/2025
 
@@ -96,6 +96,13 @@ Well... It turns out I wasn't finished. The keyboard came out way over budget, s
 Remade the case to incorporate the base plate into the print. I used heat set inserts to replace the tapped holes in the aluminum baseplate. Also split the plate in half to allow it to fit on my printer. With this, the design is done and all I have left to do is to optimize the BOM to get it under budget and to fully ship the project.
 
 The board looks pretty much identical to how it did in the "finished product" above.
+
+6/12/2025
+
+1 Hour
+
+Shipped the project! (:
+
 
 ![image](https://github.com/user-attachments/assets/e91ab193-1a94-40e1-aff9-fbbbc6620f59)
 
