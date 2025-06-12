@@ -22,34 +22,44 @@ The keyboard itself runs off of a Pi Pico clone, which was chosen for its high q
 # Images
 
 ### PCB:
+
 Schematic:
+
 ![image](https://github.com/user-attachments/assets/87a5833b-df61-42e8-8393-87130a53c252)
 
 Front:
+
 ![image](https://github.com/user-attachments/assets/87d26551-021b-4a17-a9c9-2c0e55f7c9ba)
 
 Back:
+
 ![image](https://github.com/user-attachments/assets/6082f38e-1d38-45b1-a5c3-80429cf883bc)
 
 3D View:
+
 ![image](https://github.com/user-attachments/assets/1532ab9e-a589-4e56-ad91-9fef29abcda1)
 
 
 ### CAD:
 
 Isometric:
+
 ![image](https://github.com/user-attachments/assets/2d376f18-136c-4a6b-be7e-b61e0ae7a144)
 
 Front View:
+
 ![image](https://github.com/user-attachments/assets/5d17b7b1-2008-4b0b-a14d-b673a3c53a87)
 
 Side View:
+
 ![image](https://github.com/user-attachments/assets/3f54e12b-c284-4a91-9348-8b9789435811)
 
 Top View:
+
 ![image](https://github.com/user-attachments/assets/d5cb60e5-5211-4f2c-9b56-5e2546696687)
 
 Back View:
+
 ![image](https://github.com/user-attachments/assets/12e8ded4-1b9a-4817-b722-becd98614d5d)
 
 # BOM
