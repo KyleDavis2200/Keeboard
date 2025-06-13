@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('Plate STEP.STEP',
+FILE_NAME ('Plate.STEP',
     '2025-06-12T20:45:58',
     ( '' ),
     ( '' ),
