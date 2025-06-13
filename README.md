@@ -12,6 +12,7 @@ In this project, I made a custom mechanical keyboard using a Raspberry Pi Pico c
 * 3D Printed Case and Plate
 * 3D Printed TPU Feet
 * USB C Connector
+* KMK Firmware
 
 # Background
 
